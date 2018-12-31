@@ -3,5 +3,3 @@ os:
   - linux
 jdk:
   - oraclejdk9
-script:
-  ant makedistrib
